@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
-    id        = "lv.unicon.app"
+    id        = "lv.sarkandaugavaskods.app"
     version   = "1.0.0">
 
-<name>Unicon App</name>
+<name>Sarkandaugavas kods</name>
 
 <description>
-Unicon Schedule and Event Map
+Museum night "Sarkandaugavas kods" part description,schedule,locations.
 </description>
 
-<author href="http://valerieviligure.com" email="ervins.trans@gmail.com">
-Valerie Viligure and Ervins Trans
+<author href="http://valerieviligure.com" email="valerie.viligure@gmail.com">
+Valerie Viligure
 </author>
 <preference name="permissions"                value="none"/>
 
