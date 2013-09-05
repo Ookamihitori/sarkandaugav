@@ -52,7 +52,7 @@
     -->
 
     <!-- Define app icon for each platform. -->
-    <icon src="icon.ico" />
+    <icon src="icon.png" />
 
 
 </widget>
